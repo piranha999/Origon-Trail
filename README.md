@@ -20,8 +20,8 @@ _Clamities_:
 | snakebite |  | inadiquite grass |  | cholera |  |
 | --- | --- | --- | --- | --- | --- |
 | fall | 20% | fall | 20% | fall | 35% |
-| winter | 0% | winter | 5% | winter | 50% |
-| spring | 10% | spring | 25% | summer | 20% |
+| winter | 0% | winter | 5% | winter | 0% |
+| spring | 10% | spring | 25% | summer | 35% |
 | summer | 15% | summer | 30% | spring | 15% |
 | dysentary |  | broken axle |  | blizzard |  | broken leg/arm |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
