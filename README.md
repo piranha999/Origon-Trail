@@ -23,7 +23,7 @@ _Clamities_:
 | winter | 0% | winter | 45% | winter | 0% |
 | spring | 10% | spring | 25% | summer | 35% |
 | summer | 15% | summer | 30% | spring | 15% |
-| dysentary |  | broken axle/wheel |  | blizzard |  | broken leg/arm |  |
+| dysentary |  | broken axle/wheel |  | blizzard || broken leg/arm |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | fall | 15% | fall | 20% | fall | 5% | fall | 20% |
 | winter | 5% | winter | 30% | winter | 40% | winter  | 10% |
