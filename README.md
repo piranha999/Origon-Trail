@@ -29,6 +29,7 @@ _Clamities_:
 | winter | 5% | winter | 30% | winter | 40% | winter | 10% |
 | spring | 15% | spring | 10% | spring | 15% | spring | 15% |
 | summer | 20% | summer | 10% | summer | 0% | summer | 10% |
+
 <object="summer"= "hot" "food spoil= "50%" snakebite= "15%" inadiquite grass= "30%" cholera= "35%" desentairy= "20%""broken axle/wheel"= "10%" blizzard="0%" broken leg/arm="15%"><summer>
 
 <object="winter"= "cold""blizzard"= "40%""inadiquite grass"= "45%""desentiary" = "5%"broken leg/arm"= "40%""chance of food spoiling"= "5%""broken axle/wheel"= "30%"><winter>
