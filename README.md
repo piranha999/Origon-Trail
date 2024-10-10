@@ -30,20 +30,6 @@ _Clamities_:
 | spring | 15% | spring | 10% | spring | 15% | spring  | 15% |
 | summer | 20% | summer | 10% | summer | 0% | summer  | 10% |
 
-<object="summer"= "hot" "food spoil= "50%" snakebite= "15%" inadiquite grass= "30%" cholera= "35%" desentairy= "20%""broken axle/wheel"= "10%" blizzard="0%" broken leg/arm="15%"><summer>
 
-<object="winter"= "cold""blizzard"= "40%""inadiquite grass"= "45%""desentiary" = "5%"broken leg/arm"= "40%""chance of food spoiling"= "5%""broken axle/wheel"= "30%"><winter>
-
-<object="spring"= "wet""snakebite"= "10%""cholera"= "35%""dysentairy"= "15%""broken axle/wheel"= "10%""broken leg/arm"= "15%""chance of food spoiling"="40%"><spring>
-
-<object="fall"= "cooler""chance fo food spoiling"= "20%""snakebite"= 20%"indaquite grass"= "20%"cholera"= "35%""dysentairy"= "15%""broken axle/wheel"= "20%""blizzard"= 5%"broken leg/arm"="5%"><fall>
-
-<object="wagon"= "cloth top"= "cloth""wheels="wood""broken axle/wheel"= "20%""oxen"= "pull wagon""wheels"= "wood round poles"<wagon>
-
-<object="river"= "water""deep""drowning"= "34% when caulking""width"= "50-140ft width""depth"= "2-7ft deep"><river>
-
-<object="fort"= "trade supplies""look around"<fort>
-
-<object="landmark"="independence rock/independece rock""large rock munuments"<landmark>
 
 <object="gravstone"= "person die""epigraph"<gravestone>
